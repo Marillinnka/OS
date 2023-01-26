@@ -1,0 +1,6 @@
+Y1 q2 q4
+Y2 q2 q4
+Y1 q1 q4
+Y2 q1 q4
+Y2 q2 q5
+Y1 q0 q3
